@@ -1,0 +1,252 @@
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.Interception.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\Mani\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\Mani\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\Mani\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mani\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Mani\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+D:\Mani\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Mani\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\Mani\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\Mani\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojAssemblyReference.cache
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CopyComplete
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojAssemblyReference.cache
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CopyComplete
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\mani\SRI MEENACHI SILKS\New folder\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\mani\SRI MEENACHI SILKS\New folder\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\mani\SRI MEENACHI SILKS\New folder\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\mani\SRI MEENACHI SILKS\New folder\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.Unity.dll
+E:\mani\SRI MEENACHI SILKS\New folder\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\mani\SRI MEENACHI SILKS\New folder\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\mani\SRI MEENACHI SILKS\New folder\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS PVT.LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMS PVT.LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS PVT.LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS PVT.LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMS PVT.LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\Project\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\Project\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\Project\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+E:\Project\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+C:\Projects\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+C:\Projects\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+C:\Projects\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+C:\Projects\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+C:\Projects\SRI MEENACHI SILKS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+G:\pragathesh web\SMS-Source Code16122022\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+G:\pragathesh web\SMS-Source Code16122022\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+G:\pragathesh web\SMS-Source Code16122022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+G:\pragathesh web\SMS-Source Code16122022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+G:\pragathesh web\SMS-Source Code16122022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+G:\pragathesh web\SMS-Source Code16122022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\pragathesh\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\pragathesh\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\pragathesh\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+E:\pragathesh\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+E:\pragathesh\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\pragathesh\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMS\Source Code 26-12-2022 (1)\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+H:\pragathesh web\SMS\Source Code 26-12-2022 (1)\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMS\Source Code 26-12-2022 (1)\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMS\Source Code 26-12-2022 (1)\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+H:\pragathesh web\SMS\Source Code 26-12-2022 (1)\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+H:\pragathesh web\SMS\Source Code 26-12-2022 (1)\Source Code 26-12-2022\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+F:\Pragathesh\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+F:\Pragathesh\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+F:\Pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.AssemblyReference.cache
+F:\Pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+F:\Pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CopyComplete
+F:\Pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+F:\Pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.AssemblyReference.cache
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CopyComplete
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.AssemblyReference.cache
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CopyComplete
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+E:\pragathesh\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+H:\pragathesh web\SMS\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\pragathesh web\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+H:\pragathesh web\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+H:\pragathesh web\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CopyComplete
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\bin\Release\VHMS.Entity.pdb
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.csproj.CopyComplete
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Entity\obj\Release\VHMS.Entity.pdb

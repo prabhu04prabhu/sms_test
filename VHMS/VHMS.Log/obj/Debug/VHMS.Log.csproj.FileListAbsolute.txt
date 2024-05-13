@@ -1,0 +1,154 @@
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\Mani\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\Mani\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\Mani\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\Mani\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\Mani\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Log\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojAssemblyReference.cache
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CopyComplete
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CopyComplete
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojAssemblyReference.cache
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojAssemblyReference.cache
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CopyComplete
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+H:\pragathesh web\SMS\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+H:\pragathesh web\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+H:\pragathesh web\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CopyComplete
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CopyComplete
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csproj.CopyComplete
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Log\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.Log\obj\Debug\VHMS.Log.pdb

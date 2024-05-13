@@ -1,0 +1,336 @@
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\Geetha\Vijaya Hospitals\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\CommonMethods.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+G:\Projects\Vijaya HMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\mani\Projects\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\Mani\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\Mani\JS Hospital\Bak\06042019\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\Mani\JS Hospital\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\Mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\Project\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojAssemblyReference.cache
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\mani\SVS Jewellery\Source Code\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojAssemblyReference.cache
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\mani\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\Project\SVS Jewellery\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\AJITH\PROJECT\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\mani\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojAssemblyReference.cache
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\Project\SRI MEENACHI SILKS\bak\30032021\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMS PVT LTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+E:\Project\SRI MEENACHI SILKS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMSPVT LTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+G:\Shankar\Project\sms pvt ltd\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+H:\pragathesh web\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+C:\Users\Binary-Pragathesh\Downloads\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+H:\pragathesh web\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+H:\pragathesh web\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMS\SMS27072023\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\PagatheshWeb\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.AssemblyReference.cache
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\Project\.net\SMSPVTLTD\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.AssemblyReference.cache
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+F:\Pragathesh\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojAssemblyReference.cache
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csproj.CopyComplete
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\PagatheshWeb\SMS\SMS\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.DataAccess.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Entity.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\bin\Debug\VHMS.Log.pdb
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.dll
+D:\AJITH\WEB\SMS\Source Code\VHMS\VHMS.DataAccess\obj\Debug\VHMS.DataAccess.pdb
