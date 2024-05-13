@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DCC9F862-A6E4-4188-9793-95219643C283}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VHMS.Entity</RootNamespace>
+    <AssemblyName>VHMS.Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\..\..\..\Components\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Billing\BuyerContactType.cs" />
+    <Compile Include="Billing\HSNMaster.cs" />
+    <Compile Include="Billing\ExpensePayment.cs" />
+    <Compile Include="Billing\INLREntry.cs" />
+    <Compile Include="Billing\RetailOutward.cs" />
+    <Compile Include="Billing\PurchaseDiscount.cs" />
+    <Compile Include="Billing\SalesDiscount.cs" />
+    <Compile Include="Billing\Outward.cs" />
+    <Compile Include="Billing\PurchaseReturnJSON.cs" />
+    <Compile Include="Billing\SalesReturnJSON.cs" />
+    <Compile Include="Billing\SalesJSON.cs" />
+    <Compile Include="Billing\PurchaseTDSPayment.cs" />
+    <Compile Include="Billing\YarnSalesEntry.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="Master\AttendanceLog.cs" />
+    <Compile Include="Master\PunchLog.cs" />
+    <Compile Include="Master\Barcode.cs" />
+    <Compile Include="Master\LetterPad.cs" />
+    <Compile Include="Master\FinancialYear.cs" />
+    <Compile Include="Billing\Agent.cs" />
+    <Compile Include="Billing\BankEntry.cs" />
+    <Compile Include="Billing\Advance.cs" />
+    <Compile Include="Billing\EstimateSalesEntry.cs" />
+    <Compile Include="Billing\TDSPayment.cs" />
+    <Compile Include="Billing\VendorEntry.cs" />
+    <Compile Include="Billing\ProductType.cs" />
+    <Compile Include="Billing\Journal.cs" />
+    <Compile Include="Billing\ExchangeReceipt.cs" />
+    <Compile Include="Billing\Expense.cs" />
+    <Compile Include="Billing\LREntry.cs" />
+    <Compile Include="Billing\Price.cs" />
+    <Compile Include="Billing\VendorPayment.cs" />
+    <Compile Include="Billing\Payment.cs" />
+    <Compile Include="Billing\ProcessingOutward.cs" />
+    <Compile Include="Billing\ProcessingInward.cs" />
+    <Compile Include="Billing\PurchaseReturn.cs" />
+    <Compile Include="Billing\Receipt.cs" />
+    <Compile Include="Billing\SalesEntry.cs" />
+    <Compile Include="Billing\SalesOrder.cs" />
+    <Compile Include="Billing\Purchase.cs" />
+    <Compile Include="Billing\PurchaseOrder.cs" />
+    <Compile Include="Billing\Inward.cs" />
+    <Compile Include="Billing\Renewal.cs" />
+    <Compile Include="Billing\Register.cs" />
+    <Compile Include="Billing\Exchange.cs" />
+    <Compile Include="Billing\Quotation.cs" />
+    <Compile Include="Billing\BranchMove.cs" />
+    <Compile Include="Billing\StockCheck.cs" />
+    <Compile Include="Billing\SalesReturn.cs" />
+    <Compile Include="Billing\Sales.cs" />
+    <Compile Include="Billing\OPBillingMaster.cs" />
+    <Compile Include="Billing\PrescriptionMaster.cs" />
+    <Compile Include="Billing\Anesthesia.cs" />
+    <Compile Include="Billing\Category.cs" />
+    <Compile Include="Billing\Vendor.cs" />
+    <Compile Include="Billing\Supplier.cs" />
+    <Compile Include="Billing\SurgeryType.cs" />
+    <Compile Include="Billing\SurgicalProcedure.cs" />
+    <Compile Include="Billing\Tax.cs" />
+    <Compile Include="Billing\Unit.cs" />
+    <Compile Include="Billing\WareHouse.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="Discharge\Admission.cs" />
+    <Compile Include="Discharge\DischargeEntry.cs" />
+    <Compile Include="Discharge\Dosage.cs" />
+    <Compile Include="Discharge\Duration.cs" />
+    <Compile Include="Discharge\Frequency.cs" />
+    <Compile Include="Discharge\HipReplacement.cs" />
+    <Compile Include="Discharge\KneeReplacement.cs" />
+    <Compile Include="Discharge\OtherProcedure.cs" />
+    <Compile Include="Discharge\OtherSurgery.cs" />
+    <Compile Include="Discharge\PatientOwnDrug.cs" />
+    <Compile Include="Discharge\Prescription.cs" />
+    <Compile Include="Discharge\SurgeryNotes.cs" />
+    <Compile Include="Discharge\DoctorType.cs" />
+    <Compile Include="Discharge\Department.cs" />
+    <Compile Include="Discharge\Diagonsis.cs" />
+    <Compile Include="Discharge\Doctor.cs" />
+    <Compile Include="Discharge\Drug.cs" />
+    <Compile Include="Discharge\Specialization.cs" />
+    <Compile Include="Master\CashTill.cs" />
+    <Compile Include="Master\Salary.cs" />
+    <Compile Include="Master\Employee.cs" />
+    <Compile Include="Master\ShareScreen.cs" />
+    <Compile Include="Master\Shift.cs" />
+    <Compile Include="Master\StockAdjuest.cs" />
+    <Compile Include="Master\Template.cs" />
+    <Compile Include="Master\Transport.cs" />
+    <Compile Include="Master\Gift.cs" />
+    <Compile Include="Master\CustomerType.cs" />
+    <Compile Include="Master\Dashboard.cs" />
+    <Compile Include="Master\Work.cs" />
+    <Compile Include="Master\Section.cs" />
+    <Compile Include="Master\Pricing.cs" />
+    <Compile Include="Master\Ledger.cs" />
+    <Compile Include="Master\LedgerType.cs" />
+    <Compile Include="Master\SubCategory.cs" />
+    <Compile Include="Master\Zone.cs" />
+    <Compile Include="Master\Region.cs" />
+    <Compile Include="Master\Stock.cs" />
+    <Compile Include="Master\Chit.cs" />
+    <Compile Include="Master\Customer.cs" />
+    <Compile Include="Master\Branch.cs" />
+    <Compile Include="Master\Rate.cs" />
+    <Compile Include="Master\Product.cs" />
+    <Compile Include="Master\Country.cs" />
+    <Compile Include="Master\Designation.cs" />
+    <Compile Include="Master\DescriptionCategory.cs" />
+    <Compile Include="Master\Description.cs" />
+    <Compile Include="Master\District.cs" />
+    <Compile Include="Master\Location.cs" />
+    <Compile Include="Master\Patient.cs" />
+    <Compile Include="Master\State.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings\Calendar.cs" />
+    <Compile Include="Settings\DBConnection.cs" />
+    <Compile Include="Settings\StoredProcedures.cs" />
+    <Compile Include="UserAccounts\Role.cs" />
+    <Compile Include="UserAccounts\SMSLog.cs" />
+    <Compile Include="UserAccounts\Settings.cs" />
+    <Compile Include="UserAccounts\User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll" />
+    <Content Include="bin\Debug\VHMS.Entity.dll" />
+    <Content Include="bin\Debug\VHMS.Entity.pdb" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

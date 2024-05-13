@@ -1,0 +1,162 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Collections.ObjectModel;
+using System.IO;
+using System.Text;
+using iTextSharp.text;
+using iTextSharp.text.pdf;
+using iTextSharp.text.html.simpleparser;
+using CrystalDecisions.CrystalReports.Engine;
+using System.Globalization;
+
+public partial class frmSupplierLedgerSummary : System.Web.UI.Page
+{
+    ReportDocument rprt = new ReportDocument();
+    DataSet dsData = new DataSet();
+    string sException = string.Empty;
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!IsPostBack)
+        {
+            VHMSService.AddPageVisitLog();
+            LoadSupplier();
+            txtDOB.Text = fromDate(Convert.ToInt32(Session["FK_FinancialYearID"]));
+
+            if (FinancialYearStatus(Convert.ToInt32(Session["FK_FinancialYearID"])) == "Closed")
+                txtDOR.Text = TODate(Convert.ToInt32(Session["FK_FinancialYearID"]));
+            else
+                txtDOR.Text = DateTime.Now.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture);
+        }
+        LoadReport();
+    }
+    private static string fromDate(Int32 firstName)
+    {
+        VHMS.Entity.FinancialYear objQuotation = new VHMS.Entity.FinancialYear();
+        objQuotation = VHMS.DataAccess.FinancialYear.GetFinancialYearByID(firstName);
+        string result = objQuotation.sYearFrom;
+        return result;
+    }
+    private static string FinancialYearStatus(Int32 firstName)
+    {
+        VHMS.Entity.FinancialYear objQuotation = new VHMS.Entity.FinancialYear();
+        objQuotation = VHMS.DataAccess.FinancialYear.GetFinancialYearByID(firstName);
+        string result = objQuotation.Status;
+        return result;
+    }
+    private static string TODate(Int32 firstName)
+    {
+        VHMS.Entity.FinancialYear objQuotation = new VHMS.Entity.FinancialYear();
+        objQuotation = VHMS.DataAccess.FinancialYear.GetFinancialYearByID(firstName);
+        string result = objQuotation.sYearTo;
+        return result;
+    }
+    public void LoadSupplier()
+    {
+        Collection<VHMS.Entity.Billing.Supplier> ObjList = new Collection<VHMS.Entity.Billing.Supplier>();
+        ObjList = VHMS.DataAccess.Billing.Supplier.GetActiveSupplier();
+
+        ddlSupplier.DataSource = ObjList;
+        ddlSupplier.DataTextField = "SupplierName";
+        ddlSupplier.DataValueField = "SupplierID";
+        ddlSupplier.DataBind();
+        ddlSupplier.Items.Insert(0, new System.Web.UI.WebControls.ListItem("--Select--", "0"));
+    }
+
+
+    protected void btnView_Click(object sender, EventArgs e)
+    {
+        LoadReport();
+    }
+    protected void btnPrint_Click(object sender, EventArgs e)
+    {
+        string sTemp = string.Empty;
+        try
+        {
+            ReportDataSet dsReportData = new ReportDataSet();
+
+            dsData = VHMS.DataAccess.VHMSReports.PrintPurchaseLedgerReport(txtDOB.Text, txtDOR.Text, ddlSupplier.SelectedValue, 1);
+
+            if (dsData.Tables.Count > 0)
+            {
+                dsData.Tables[0].TableName = "tStatement";
+                foreach (DataRow drow in dsData.Tables[0].Rows)
+                    dsReportData.tStatement.ImportRow(drow);
+
+                dsData.Tables[1].TableName = "tSupplier";
+                foreach (DataRow drow in dsData.Tables[1].Rows)
+                    dsReportData.tSupplier.ImportRow(drow);
+
+                dsData.Tables[2].TableName = "tCompany";
+                foreach (DataRow drow in dsData.Tables[2].Rows)
+                    dsReportData.tCompany.ImportRow(drow);
+            }
+            //  dsReportData = LoadData();
+            rprt = new ReportDocument();
+            rprt.Load(Server.MapPath("~/Reports/Rpt_PurchaseStatementSummary.rpt"));
+            rprt.SetDataSource(dsReportData);
+            this.CRDischargeSummaryReport.ReportSource = rprt;
+            CRDischargeSummaryReport.AllowedExportFormats = (int)(CrystalDecisions.Shared.ViewerExportFormats.AllFormats ^ CrystalDecisions.Shared.ViewerExportFormats.RptFormat);
+            CRDischargeSummaryReport.Zoom(100);
+            this.CRDischargeSummaryReport.DataBind();
+            rprt.ExportToHttpResponse
+            (CrystalDecisions.Shared.ExportFormatType.PortableDocFormat, Response, true, "Supplier Ledger");
+        }
+        catch (Exception ex)
+        {
+            sException = "ReportPage_RepDischargeSummary | " + ex.ToString();
+            Log.Write(sException);
+        }
+    }
+
+    public override void VerifyRenderingInServerForm(Control control)
+    {
+    }
+    private void LoadReport()
+    {
+        ReportDataSet dsReportData = new ReportDataSet();
+
+        dsData = VHMS.DataAccess.VHMSReports.PrintPurchaseLedgerReport(txtDOB.Text, txtDOR.Text, ddlSupplier.SelectedValue, 1);
+        try
+        {
+            if (dsData.Tables.Count > 0)
+            {
+                dsData.Tables[0].TableName = "tStatement";
+                foreach (DataRow drow in dsData.Tables[0].Rows)
+                    dsReportData.tStatement.ImportRow(drow);
+
+                dsData.Tables[1].TableName = "tSupplier";
+                foreach (DataRow drow in dsData.Tables[1].Rows)
+                    dsReportData.tSupplier.ImportRow(drow);
+
+                dsData.Tables[2].TableName = "tCompany";
+                foreach (DataRow drow in dsData.Tables[2].Rows)
+                    dsReportData.tCompany.ImportRow(drow);
+            }
+
+            btnprint.Visible = false;
+            rprt = new ReportDocument();
+            rprt.Load(Server.MapPath("~/Reports/Rpt_PurchaseStatementSummary.rpt"));
+            rprt.SetDataSource(dsReportData);
+            this.CRDischargeSummaryReport.ReportSource = rprt;
+            CRDischargeSummaryReport.AllowedExportFormats = (int)(CrystalDecisions.Shared.ViewerExportFormats.AllFormats ^ CrystalDecisions.Shared.ViewerExportFormats.RptFormat);
+            CRDischargeSummaryReport.Zoom(100);
+            this.CRDischargeSummaryReport.DataBind();
+        }
+
+        catch (Exception ex)
+        {
+            sException = "frmPrintJobCard | " + ex.ToString();
+            Log.Write(sException);
+        }
+    }
+    protected void Page_UnLoad(object sender, EventArgs e)
+    {
+        rprt.Close();
+        rprt.Dispose();
+    }
+}

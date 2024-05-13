@@ -1,0 +1,198 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="VHMSMasterPage.master.cs" Inherits="VHMSMasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome to Sri Meenachi Silks PVT LTD</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+        name="viewport" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link href="css/fonts/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/fonts/ionicons.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/AdminLTE.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/skins/_all-skins.min.css" />
+    <link href="plugins/jgrowl/jquery.jgrowl.css" rel="stylesheet" type="text/css" />
+    <link href="plugins/jQueryUI/jquery-ui-1.10.3.custom.css" rel="stylesheet" />
+    <link href="plugins/datepicker/bootstrap-datetimepicker.min.v3.css" rel="stylesheet" />
+    <link href="plugins/select2/select2.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/png" href="favicon.png" />
+    <link href="plugins/select2/select2-bootstrap.min.css" rel="stylesheet" />
+    <link href="css/framework/PanelwithNavTab.css" rel="stylesheet" />r
+    <link href="css/buttons.dataTables.min-new.css" rel="stylesheet" type="text/css" />
+    <link href="css/buttons.dataTables.min-new.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="VHMSWebHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="skin-blue layout-top-nav fixed">
+    
+    <script src="js/jquery.dataTables.min-new.js" type="text/javascript"></script>
+
+    <script src="JS/jQuery-2.1.4.min.js" type="text/javascript"></script>
+    <script src="JS/app.min.js" type="text/javascript"></script>
+    <script src="JS/bootstrap.min.js" type="text/javascript"></script>
+    <script src="JS/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+    <script src="plugins/jgrowl/jquery.jgrowl.js" type="text/javascript"></script>
+    <script src="plugins/cookie/jquery.enhanced.cookie.js" type="text/javascript"></script>
+    <script src="plugins/datepicker/Moment.js" type="text/javascript"></script>
+    <script src="plugins/datepicker/bootstrap-datetimepicker.min.v3.js" type="text/javascript"></script>
+    <script src="plugins/input-mask/jquery.inputmask.js"></script>
+    <script src="plugins/input-mask/jquery.inputmask.numeric.extensions.js" type="text/javascript"></script>
+    <script src="plugins/datatables/jquery.dataTables.js" type="text/javascript"></script>
+    <script src="plugins/datatables/dataTables.bootstrap.js" type="text/javascript"></script>
+    <script src="UserDefined_Js/Validation.js" type="text/javascript"></script>
+    <script src="UserDefined_Js/TRSearch.js" type="text/javascript"></script>
+    <script src="plugins/select2/select2.min.js"></script>
+    <script src="plugins/rangyinput/rangyinputs-jquery-src.js"></script>
+    
+    <script src="JS/dataTables.buttons.min-new.js" type="text/javascript"></script>
+    <script src="JS/jszip-3.10.1.min-new.js" type="text/javascript"></script>
+    <script src="JS/jszip.min.js" type="text/javascript"></script>
+    <script src="JS/jszip-utils.js" type="text/javascript"></script>
+    <script src="JS/pdfmake-0.1.53.min-new.js" type="text/javascript"></script>
+    <script src="JS/vfs_fonts-0.1.53-new.js" type="text/javascript"></script>
+    <script src="JS/buttons.html5.min-new.js" type="text/javascript"></script>
+    <script src="JS/buttons.print.min-new.js" type="text/javascript"></script>
+
+
+    <div class="wrapper">
+        <header class="main-header">
+            <nav class="navbar navbar-fixed-top fin-year-display">
+                <%--navbar-fixed-top--%>
+                <div class="container-fluid">
+                    <div class="navbar-header" style="text-align: center;">
+                        <%--    <a href="frmDefault.aspx" class="navbar-brand">
+                             <img src="images/default_user.png" class="user-image" style="margin-top: -10px; width: 40px; height: 40px;" alt="User Image" /></a>
+                        <a href="frmDefault.aspx" class="navbar-brand" style="display: none;"><b>Sri Meenachi Silks PVT LTD</b></a>--%>
+                        <a href="frmDefault.aspx" class="navbar-brand">&nbsp;<b>SMS PVT LTD</b><br/>
+                            <b id="fin_title" style="color: #f0f8ff;text-align: center;font-size: large;background: #00a65a;padding: 0px 5px 0px 5px;">FY : <%= Session["Fin_Title"].ToString()%></b></a>
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="navbar-collapse">
+                        <ul class="nav navbar-nav" id="VijayaTopMenuBar" runat="server">
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <!-- User Account Menu -->
+                            <li class="dropdown user user-menu">
+                                <%if (Session["EmployeeName"] != null)
+                                    { %>
+                                <a id="A1" href="#" data-toggle="dropdown" class="dropdown-toggle">
+                                    <img src="images/user.png" class="user-image" style="border-radius: 50%; margin-top: -10px; width: 40px; height: 40px;" alt="User Image" /><span class="hidden-sm">&nbsp;&nbsp;<%= Session["EmployeeName"].ToString().ToUpper()%></span></a>
+                                <%} %>
+                                <ul class="dropdown-menu">
+                                    <li class="user-footer bg-gray">
+                                        <p>
+                                            <i class="fa fa-clock-o fa-lg"></i>&nbsp;&nbsp;Logged on : <%= Session["LogDateTime"].ToString().ToUpper()%>
+                                        </p>
+                                    </li>
+                                    <li class="user-footer">
+                                        <div class="pull-left">
+                                            <a href="frmProfile.aspx" class="btn btn-warning btn-flat">Profile</a>
+                                        </div>
+                                        <div class="pull-right">
+                                            <a href="frmLogin.aspx" class="btn btn-danger btn-flat">Sign out</a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <form id="form1" runat="server">
+            <div class="content-wrapper">
+                <asp:ScriptManager ID="ScriptManager1" EnablePartialRendering="true" SupportsPartialRendering="true"
+                    runat="server">
+                </asp:ScriptManager>
+                <asp:ContentPlaceHolder ID="VHMSWebContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+        <footer class="main-footer">
+            <div id="divLatestUpdate" class="pull-right hidden-xs" runat="server">
+            </div>
+            <div id="divFooterLeft" runat="server">
+                Copyright &copy; 2017, <strong>JS Hospital v 1.0.0</strong>
+            </div>
+        </footer>
+        <div id="divLoading" class="hidden">
+            <div class="overlay loading-img">
+                <i class="fa fa-spinner fa-spin text-blue" style="font-size: 48px;"></i>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        ActionFinancialYear = '<%=Session["FK_FinancialYearID"]%>';
+        ActionCurrentFinancialYear = '<%=Session["Current_FinancialYear"]%>';
+        if (ActionCurrentFinancialYear != ActionFinancialYear)
+            $(".fin-year-display").css("background-color", "#a30f42");
+
+        $(document).ready(function () {
+            $('.select2').select2({
+                theme: 'bootstrap'
+            });
+
+            $('.navbar a.dropdown-toggle').on('click', function (e) {
+                var $el = $(this);
+                var $parent = $(this).offsetParent(".dropdown-menu");
+                $(this).parent("li").toggleClass('open');
+
+                if (!$parent.parent().hasClass('nav')) {
+                    $el.next().css({ "top": $el[0].offsetTop, "left": $parent.outerWidth() - 4 });
+                }
+
+                $('.nav li.open').not($(this).parents("li")).removeClass("open");
+                return false;
+            });
+        });
+
+        $("#liNewDischarge").click(function () {
+            $.cookie("Discharge", "NewEntry");
+        });
+        $("#liEditDischarge").click(function () {
+            $.cookie("Discharge", "EditEntry");
+        });
+    </script>
+    <script type="text/javascript">
+        var logoutUser = false;
+        var timeoutHnd = null;
+        var logouTimeInterval = 60 * 60 * 1000; // 15 mins here u can increase session time
+        function onuser_activite() {
+            if (logoutUser) {
+                ;
+            }
+            else {
+                ResetLogOutTimer();
+
+            }
+        }
+        function OnTimeoutReached() {
+            logoutUser = true;
+            var sdate = new Date();
+            var sLoggedOut = sdate.getDate() + "-" + (sdate.getMonth() + 1) + "-" + sdate.getFullYear() + " " + sdate.getHours() + ":" + sdate.getMinutes() + ":" + sdate.getSeconds();
+            alert("You have been automatically Log Off from the system !\nLogged Out: " + sLoggedOut);
+            window.location.href = "Login.aspx";
+
+        }
+        function ResetLogOutTimer() {
+            clearTimeout(timeoutHnd);
+            // set new timer
+            timeoutHnd = setTimeout('OnTimeoutReached();', logouTimeInterval);
+        }
+
+
+        document.body.onclick = onuser_activite;
+        timeoutHnd = setTimeout('OnTimeoutReached();', logouTimeInterval);
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,115 @@
+﻿
+table {
+    width:85%;
+    margin: 1%;
+    padding: 3px;
+    border: 1px;
+    border-color: black;
+    border-collapse: collapse;
+    margin-left:8%;
+}
+.border_details tr th,.border_details tr td  {
+    border:solid 1px #565656;
+}
+table th, table td {
+    padding: 3px;
+    /*line-height: 20px;*/
+    text-align: left;
+    vertical-align: top;
+    /*border-top: 1px solid #000000;*/
+     border: 0px solid #000;
+}
+
+table th {
+    font-weight: bold;
+    background: #ecf0f5 !important;
+}
+
+table thead th {
+    vertical-align: bottom;
+    border: 1px solid #000;
+}
+
+table td {
+    font-size: 12px !important;
+    font-family: Ebrima;
+}
+
+    table ul {
+        list-style: decimal;
+    }
+
+        table ul li {
+            padding: 2px;
+        }
+
+    table td i {
+        margin: 10px;
+        border: 0px solid;
+        color: green;
+    }
+
+@media print {
+
+    table {
+        width: 85%;
+        margin: 1%;
+        padding: 3px;
+        border: 1px;
+        border-color: black;
+        border-collapse: collapse;
+        margin-left: 8%;
+    }
+
+    .border_details tr th, .border_details tr td {
+        border: solid 1px #565656;
+    }
+
+    table th, table td {
+        padding: 3px;
+        /*line-height: 20px;*/
+        text-align: left;
+        vertical-align: top;
+        /*border-top: 1px solid #000000;*/
+        border: 0px solid #000;
+    }
+
+    table th {
+        font-weight: bold;
+        background: #ecf0f5 !important;
+    }
+
+    table thead th {
+        vertical-align: bottom;
+        border: 1px solid #000;
+    }
+
+    table td {
+        font-size: 12px !important;
+        font-family: Ebrima;
+    }
+
+    table ul {
+        list-style: decimal;
+    }
+
+        table ul li {
+            padding: 2px;
+        }
+
+    table td i {
+        margin: 10px;
+        border: 0px solid;
+        color: green;
+    }
+
+    table td i {
+        margin: 10px;
+        border: 0px solid;
+        color: green;
+    }
+    @page {
+        size: auto;
+        margin: 0mm;
+    }
+}
